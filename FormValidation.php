@@ -91,7 +91,7 @@
 					$err_email="Mail address required";
 				}
 				else{
-					$bio=$_POST["email"];
+					$email=$_POST["email"];
 				}
 				if (!isset($_POST["gender"])){
                     $err_Gender= "Select a gender";
