@@ -1,6 +1,3 @@
-<html>
-    <head></head>
-    <body>
         <?php 
             $name="";
             $err_name="";
